@@ -1,12 +1,12 @@
 window.scriptData = [
   {
-    id: "gag_script",
-    title: "coming soon [GAG]",
+    id: "Noob_script",
+    title: "NOOB-RBL HUB [SAB]",
     url: "coming soon",
-    description: "Script Spawner, Auto For Grow A Garden",
-    category: "Spawner",
-    tags: ["helper", "gag", "roblox", "spawner"],
-    image: "https://tr.rbxcdn.com/180DAY-91f8ec73480a974786806c66d92dd30e/768/432/Image/Webp/noFilter"
+    description: "Script Stealer, method, stealer"
+    category: "Stealer method",
+    tags: ["helper", "sab", "stealer", "moreira"],
+    image: "https://discord.com/channels/1415587298531086421/1441282537002635326/1443102759069945956"
   },
 
   {
@@ -16,26 +16,26 @@ window.scriptData = [
     description: "Script TongHop, EXECUTE ALL EVENT, SPAWNER, DUPLICATE For Steal A Brainrot",
     category: "Helper",
     tags: ["sab", "allinone", "Spawner", "Duplicate"],
-    image: "https://tr.rbxcdn.com/180DAY-b6ad9f8a2edddee0365eed4f19a8caf9/768/432/Image/Webp/noFilter"
+    image: "https://discord.com/channels/1415587298531086421/1441282537002635326/1443102759069945956"
   },
 
   {
-    id: "99_script",
-    title: "coming soon [99NITF]",
+    id: "Thai_script",
+    title: "Script sab [SAB]",
     url: "coming soon",
-    description: "Script Mob ESP, Auto Farm Days, Diamonds, Bring For 99 Nights In The Forest",
-    category: "Survival",
+    description: "Script ESP, Auto Event, Cheat, Lagger Stealer",
+    category: "SAB",
     tags: ["forest", "night", "survival", "esp"],
-    image: "https://tr.rbxcdn.com/180DAY-643b9b9285f3bd9b63cf392db12a4d87/768/432/Image/Webp/noFilter"
+    image: "https://discord.com/channels/@me/1440236304716533871/1443103004998766747"
   },
 
   {
     id: "pvb_script",
     title: "coming soon [PVB]",
     url: "coming soon",
-    description: "Script Spawner For Plants Vs Brainrots",
+    description: "Script Spawner For Sab",
     category: "Spawner",
-    tags: ["pvb", "plants", "brainrot", "spawner"],
-    image: "https://tr.rbxcdn.com/180DAY-a933a9ba765efea4061f4a101f18edd2/768/432/Image/Webp/noFilter"
+    tags: ["Sab", "dupe", "brainrot", "spawner"],
+    image: "https://discord.com/channels/@me/1440236304716533871/1443103741539651604"
   }
 ];
