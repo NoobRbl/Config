@@ -6,7 +6,7 @@ window.scriptData = [
     description: "Script Stealer, method, stealer"
     category: "Stealer method",
     tags: ["helper", "sab", "stealer", "moreira"],
-    image: "https://drive.google.com/file/d/1cGjnmv3rJUhPV6kK9dEcQz_Xtz3mpmO4/view?usp=drivesdk"
+    image: "https://noobrbl.github.io/Img/IMG_1296.png"
   },
 
   {
@@ -16,7 +16,7 @@ window.scriptData = [
     description: "Script TongHop, EXECUTE ALL EVENT, SPAWNER, DUPLICATE For Steal A Brainrot",
     category: "Helper",
     tags: ["sab", "allinone", "Spawner", "Duplicate"],
-    image: "https://drive.google.com/file/d/1cGjnmv3rJUhPV6kK9dEcQz_Xtz3mpmO4/view?usp=drivesdk"
+    image: "https://noobrbl.github.io/Img/IMG_1296.png"
   },
 
   {
@@ -26,7 +26,7 @@ window.scriptData = [
     description: "Script ESP, Auto Event, Cheat, Lagger Stealer",
     category: "SAB",
     tags: ["forest", "night", "survival", "esp"],
-    image: "https://discord.com/channels/@me/1440236304716533871/1443103004998766747"
+    image: "https://noobrbl.github.io/Img/IMG_1297.png"
   },
 
   {
@@ -36,6 +36,6 @@ window.scriptData = [
     description: "Script Spawner For Sab",
     category: "Spawner",
     tags: ["Sab", "dupe", "brainrot", "spawner"],
-    image: "https://discord.com/channels/@me/1440236304716533871/1443103741539651604"
+    image: "https://noobrbl.github.io/Img/IMG_1298.png"
   }
 ];
