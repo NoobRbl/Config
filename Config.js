@@ -1,9 +1,10 @@
+<script>
 window.scriptData = [
   {
     id: "Noob_script",
     title: "NOOB-RBL HUB [SAB]",
     url: "https://raw.githubusercontent.com/NoobRoblox/Moreira/refs/heads/main/Method.lua",
-    description: "Script Stealer, method, stealer"
+    description: "Script Stealer, method, stealer",
     category: "Stealer method",
     tags: ["helper", "sab", "stealer", "moreira"],
     image: "https://noobrbl.github.io/Img/IMG_1296.png"
@@ -39,3 +40,4 @@ window.scriptData = [
     image: "https://noobrbl.github.io/Img/IMG_1298.png"
   }
 ];
+</script>
