@@ -2,7 +2,7 @@ window.scriptData = [
   {
     id: "Noob_script",
     title: "NOOB-RBL HUB [SAB]",
-    url: "coming soon",
+    url: "https://raw.githubusercontent.com/NoobRoblox/Moreira/refs/heads/main/Method.lua",
     description: "Script Stealer, method, stealer"
     category: "Stealer method",
     tags: ["helper", "sab", "stealer", "moreira"],
@@ -30,8 +30,8 @@ window.scriptData = [
   },
 
   {
-    id: "pvb_script",
-    title: "coming soon [PVB]",
+    id: "Meowl_script",
+    title: "coming soon [SAB]",
     url: "coming soon",
     description: "Script Spawner For Sab",
     category: "Spawner",
