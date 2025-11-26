@@ -6,7 +6,7 @@ window.scriptData = [
     description: "Script Stealer, method, stealer"
     category: "Stealer method",
     tags: ["helper", "sab", "stealer", "moreira"],
-    image: "https://discord.com/channels/1415587298531086421/1441282537002635326/1443102759069945956"
+    image: "https://drive.google.com/file/d/1cGjnmv3rJUhPV6kK9dEcQz_Xtz3mpmO4/view?usp=drivesdk"
   },
 
   {
@@ -16,7 +16,7 @@ window.scriptData = [
     description: "Script TongHop, EXECUTE ALL EVENT, SPAWNER, DUPLICATE For Steal A Brainrot",
     category: "Helper",
     tags: ["sab", "allinone", "Spawner", "Duplicate"],
-    image: "https://discord.com/channels/1415587298531086421/1441282537002635326/1443102759069945956"
+    image: "https://drive.google.com/file/d/1cGjnmv3rJUhPV6kK9dEcQz_Xtz3mpmO4/view?usp=drivesdk"
   },
 
   {
